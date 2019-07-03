@@ -5,6 +5,7 @@
         "start": "webpack-dev-server --mode development --open"
     },
     "dependencies": {
+        "@angular/cli": "^8.0.6",
         "@angular/common": "^7.2.15",
         "@angular/compiler": "^7.2.15",
         "@angular/core": "^7.2.15",
